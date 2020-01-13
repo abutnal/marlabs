@@ -1,0 +1,9 @@
+.body{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.react-tooltip-clickable-link {
+  pointer-events: auto;
+  background: #fff;
+}
